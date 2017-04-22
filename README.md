@@ -1,4 +1,7 @@
-# test coverage for  [airtable (v0.4.5)](https://github.com/airtable/airtable.js)  [![npm package](https://img.shields.io/npm/v/npmtest-airtable.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-airtable) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-airtable.svg)](https://travis-ci.org/npmtest/node-npmtest-airtable)
+# npmtest-airtable
+
+#### basic test coverage for  [airtable (v0.4.5)](https://github.com/airtable/airtable.js)  [![npm package](https://img.shields.io/npm/v/npmtest-airtable.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-airtable) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-airtable.svg)](https://travis-ci.org/npmtest/node-npmtest-airtable)
+
 #### The official Airtable JavaScript library.
 
 [![NPM](https://nodei.co/npm/airtable.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/airtable)
@@ -83,7 +86,8 @@
         "url": "git://github.com/airtable/airtable.js.git"
     },
     "scripts": {},
-    "version": "0.4.5"
+    "version": "0.4.5",
+    "bin": {}
 }
 ```
 
